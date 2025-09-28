@@ -54,6 +54,9 @@
 * [ollama中文网](https://ollama.fan/)
 * [Ollama Python library](https://github.com/ollama/ollama-python)
 
+## Quant
+* [聚宽(JoinQuant)和QMT(迅投QMT)之间持仓同步的系统](https://github.com/breakhearts/jq2qmt.git)
+* [迅投MiniQMT教程](https://github.com/zsrl/miniqmt-demo.git)
 
 ## 常用软件
 * [synergy](https://luoxx.top/archives/synergy-free-share)
