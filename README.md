@@ -57,6 +57,7 @@
 ## Quant
 * [聚宽(JoinQuant)和QMT(迅投QMT)之间持仓同步的系统](https://github.com/breakhearts/jq2qmt.git)
 * [迅投MiniQMT教程](https://github.com/zsrl/miniqmt-demo.git)
+* [Python金融分析与量化交易实战教程课件](https://github.com/ircc/python_qmt.git)
 
 ## 常用软件
 * [synergy](https://luoxx.top/archives/synergy-free-share)
